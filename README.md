@@ -35,7 +35,6 @@ Your code will be compiled with the following flags
 
 ~~~
 gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c
-
 ~~~
 
 ```Submitted by```  ```Chigbu Hosanna & Ojetola Ayomiposi```
